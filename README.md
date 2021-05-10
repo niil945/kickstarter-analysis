@@ -16,11 +16,19 @@ The analysis of campaign success based on funding goal of plays was done by grou
 
 ### Analysis of Outcomes Based on Launch Date
 
+[Outcomes Based on Launch Date](Resources/Theater_Outcomes_vs_Launch.png)
 
+As shown, theater campaigns launched in May and June have noticeably higher success rates than the average camaign with that success rate declining over the summer months, whereas campaigns launched in December have noticeably lower success rates than the average campaign.
 
 ### Analysis of Outcomes Based on Goals
 
+[Outcomes Based on Goals](Resources/Outcomes_vs_Goals.png)
+
+Plays with a low funding goal have a much higher chance of success declining as the funding goal increases. There's a marked increase in success of plays in the $35000 to $40000 funding goal range, however not shown by the visualization is that there were only a few campaigns in this range which makes those results uncertain. 
+
 ### Challenges and Difficulties Encountered
+
+
 
 ## Results
 
