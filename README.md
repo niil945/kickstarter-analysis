@@ -18,7 +18,7 @@ The analysis of campaign success based on funding goal of plays was done by grou
 
 [Outcomes Based on Launch Date](Resources/Theater_Outcomes_vs_Launch.png)
 
-As shown, theater campaigns launched in May and June have noticeably higher success rates than the average camaign with that success rate declining over the summer months, whereas campaigns launched in December have noticeably lower success rates than the average campaign.
+Theater campaigns launched in May and June have noticeably higher success rates than the average camaign with that success rate declining over the summer months, whereas campaigns launched in December have noticeably lower success rates than the average campaign.
 
 ### Analysis of Outcomes Based on Goals
 
@@ -28,14 +28,8 @@ Plays with a low funding goal have a much higher chance of success declining as 
 
 ### Challenges and Difficulties Encountered
 
-
+The dataset provides only a limited view of the failures/successes of Kickstarter campaigns. In the case that a campaign fails it would be beneficial to receive a daily or weekly breakdown of progress toward the funding goal so we can analyze why a particular campaign failed or whether it looked like it might succeed initially but pledge momentum declined. It would be interesting to see how all campaigns fared at 1/4 intervals through a campaign and might provide us another meaningful data point to assess to determine what % funded a campaign needs to be through each week(or appropriate interval) through a campaign, what the average decline in pledges are the longer a campaign runs, etc. Additionally, we have the pledged amount and the total number of backers but we don't have a more detailed breakdown of pledge contributions. A larger dataset with a granular look at the funding would allow us to make a more detailed look at campaigns and assess probability of success or failure if reliant upon a specific target funding level per expected number of backers.
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-
-- What can you conclude about the Outcomes based on Goals?
-
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
+To optimize a campaign for success in the theater category the best time to launch a campaign is May/June. For a campaign for a play to be successful a pledge goal over 5000 has a steep impact on whether a campaign will fund or not with the best results being those with a goal of less than $5000. As alternatives we could look at factors such as the impact of Staff Pick or Spotlight and if such attributes skew the data in any particular direction. And while we assessed specific markets before (US vs. GB) we didn't review that in this look at the data. Analyzing such things could give us a more realistic look at the expected outcome in the relevant market.
